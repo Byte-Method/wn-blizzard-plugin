@@ -1,0 +1,6 @@
+plugin:
+    name: 'Blizzard'
+    description: 'A collection of extensions and helpers for Winter CMS.'
+    author: ByteMethod
+    icon: wn-icon-puzzle-piece
+    homepage: 'https://github.com/Byte-Method/wn-blizzard-plugin'

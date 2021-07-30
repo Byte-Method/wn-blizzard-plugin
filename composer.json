@@ -1,0 +1,26 @@
+{
+    "name": "bytemethod/wn-blizzard-plugin",
+    "description": "A collection of extensions and helpers for Winter CMS.",
+    "homepage": "https://github.com/Byte-Method/wn-blizzard-plugin",
+    "keywords": ["winter cms", "winter", "plugin", "blizzard"],
+    "type": "winter-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zachary Schneider",
+            "email": "hello@zacharyschneider.ca"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Byte-Method/wn-blizzard-plugin/issues",
+        "source": "https://github.com/Byte-Method/wn-blizzard-plugin"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "blizzard"
+    }
+}
